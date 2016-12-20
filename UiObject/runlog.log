@@ -1,0 +1,1066 @@
+Added file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\Uiautomation\UiObject\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] 3 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+72 KB/s (4294 bytes in 0.058s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.251
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+69 KB/s (4294 bytes in 0.060s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.051
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] 3 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+67 KB/s (4335 bytes in 0.062s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.648
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:28: 警告: 编码UTF-8的不可映射字符
+    [javac] 		UiDevice.getInstance().pressBack(); //????
+    [javac] 		                                      ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:28: 警告: 编码UTF-8的不可映射字符
+    [javac] 		UiDevice.getInstance().pressBack(); //????
+    [javac] 		                                       ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:28: 警告: 编码UTF-8的不可映射字符
+    [javac] 		UiDevice.getInstance().pressBack(); //????
+    [javac] 		                                        ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:28: 警告: 编码UTF-8的不可映射字符
+    [javac] 		UiDevice.getInstance().pressBack(); //????
+    [javac] 		                                         ^
+    [javac] 7 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+60 KB/s (4428 bytes in 0.072s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.985
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                      ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                       ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                        ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                         ^
+    [javac] 7 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+52 KB/s (4298 bytes in 0.079s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.085
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+69 KB/s (4298 bytes in 0.060s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.083
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                      ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                       ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                        ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                         ^
+    [javac] 7 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+66 KB/s (4362 bytes in 0.064s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.155
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.NullPointerException
+
+INSTRUMENTATION_RESULT: longMsg=null
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                      ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                       ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                        ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                         ^
+    [javac] 7 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+62 KB/s (4361 bytes in 0.068s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.021
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.NullPointerException
+
+INSTRUMENTATION_RESULT: longMsg=null
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+66 KB/s (4361 bytes in 0.064s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.022
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.NullPointerException
+
+INSTRUMENTATION_RESULT: longMsg=null
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                      ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                       ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                        ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                         ^
+    [javac] 7 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+67 KB/s (4362 bytes in 0.063s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.049
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.NullPointerException
+
+INSTRUMENTATION_RESULT: longMsg=null
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Uiautomation\UiObject\build.xml
+Buildfile: D:\Uiautomation\UiObject\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android-sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for uiobject...
+[getuitarget] Project Target:   Android 4.3.1
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Uiautomation\UiObject\bin\classes
+    [javac] 警告: [options] 源值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 目标值1.5已过时, 将在未来所有发行版中删除
+    [javac] 警告: [options] 要隐藏有关已过时选项的警告, 请使用 -Xlint:-options。
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                      ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                       ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                        ^
+    [javac] D:\Uiautomation\UiObject\src\com\test\TestUiObject.java:30: 警告: 编码UTF-8的不可映射字符
+    [javac] //		UiDevice.getInstance().pressBack(); //????
+    [javac]   		                                         ^
+    [javac] 7 个警告
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Uiautomation\UiObject\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Uiautomation\UiObject\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Uiautomation\UiObject\bin\uiobject.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+65 KB/s (4361 bytes in 0.065s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=
+
+com.test.TestUiObject:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.test.TestUiObject
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.023
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.NullPointerException
+
+INSTRUMENTATION_RESULT: longMsg=null
+
+INSTRUMENTATION_CODE: 0
+
